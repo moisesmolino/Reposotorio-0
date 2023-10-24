@@ -1,0 +1,10 @@
+def main()->None:
+    print("En lo más ondo del mar de la web")
+    print("Vive el gato pulpo")
+    print("Agarra bien tu cometa pues con esta domaras a la vestia")
+    print("Una vez lo comprendas, el gato pulpo sera un gran aliado")
+    a=2
+    if(a!=2):
+        print("que")
+if __name__ == '__main__':
+    main()
