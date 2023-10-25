@@ -3,8 +3,10 @@ def main()->None:
     print("Vive el gato pulpo")
     print("Agarra bien tu cometa pues con esta domaras a la vestia")
     print("Una vez lo comprendas, el gato pulpo sera un gran aliado")
-    a=2
-    if(a!=2):
-        print("que")
+    separacion=1
+    print("Pero el gato pulpo tienes muchos tentaculos")
+    print("Podrias llamarlo ramas")
+    print("Son amanezasas? o son herramientas?")
+    print("Eso depende de ti")
 if __name__ == '__main__':
     main()
