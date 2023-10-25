@@ -8,5 +8,10 @@ def main()->None:
     print("Podrias llamarlo ramas")
     print("Son amanezasas? o son herramientas?")
     print("Eso depende de ti")
+    separacion= 2
+    print("Eh...")
+    print("la verdad no se que cosas raras de historia seguir poniendo")
+    print("Solo necestio cambios para la version")
+    print("hehe")
 if __name__ == '__main__':
     main()
