@@ -12,5 +12,9 @@ def main()->None:
     print("Pero la poesia es la base de la vida")
     print("Una forma de expresar nuestras emociones más complejas")
     print("Con un conjunto de las cosas que hemos decidido que son palabras")
+    print("Sabes tal vez el gato pulpo sea herviboro")
+    print("Con todo el tema de las hojas y las ramas")
+    print("Aunque el gato pulpo solo es un nombre gracioso para gitgub")    
+    print("Asi que yo decido su alimentacion")   
 if __name__ == '__main__':
     main()
