@@ -13,5 +13,9 @@ def main()->None:
     print("la verdad no se que cosas raras de historia seguir poniendo")
     print("Solo necestio cambios para la version")
     print("hehe")
+    print("Es confuso pero, yo confio")
+    print("Texto")
+    print("Texto Texto")
+    print("Texto")
 if __name__ == '__main__':
     main()
