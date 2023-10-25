@@ -15,6 +15,7 @@ def main()->None:
     print("Sabes tal vez el gato pulpo sea herviboro")
     print("Con todo el tema de las hojas y las ramas")
     print("Aunque el gato pulpo solo es un nombre gracioso para gitgub")    
-    print("Asi que yo decido su alimentacion")   
+    print("Asi que yo decido su alimentacion")
+    print("Sip tambien toma mucha agua")   
 if __name__ == '__main__':
     main()
